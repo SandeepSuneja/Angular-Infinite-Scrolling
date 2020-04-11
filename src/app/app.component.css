@@ -1,0 +1,18 @@
+
+#input {
+  margin-bottom: 2%;
+}
+
+#search-result {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #000000;
+  padding: 10px;
+  margin-left: -10%;
+  margin-right: -10%;
+}
+
+img {
+  border-radius: 10px;
+  margin: 1%;
+}
